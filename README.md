@@ -1,5 +1,4 @@
-every dingle day
-***
+> every dingle day
 # Projects "completed:"
 1. Lexie
 2. Old Maid
