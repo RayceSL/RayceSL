@@ -1,6 +1,6 @@
 every dingle day
 ***
-#Projects "completed:"
+# Projects "completed:"
 1. Lexie
 2. Old Maid
 3. Go Fish
