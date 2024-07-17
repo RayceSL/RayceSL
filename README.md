@@ -6,3 +6,4 @@ projects "completed:"
 3. Go Fish
 4. Rock Paper Scissor Lizard Spock Dynamite
 5. Normal Weather
+6. Captain's Log
